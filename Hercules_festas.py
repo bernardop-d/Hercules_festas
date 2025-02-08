@@ -1,7 +1,7 @@
 import json
 
 PRECOS = {
-    "Conjunto": 20.00,
+    "Conjunto": 200.00,
     "Mesa": 10.00,
     "Cadeira": 4.00,
     "Pula-pula pequeno": 200.00,
