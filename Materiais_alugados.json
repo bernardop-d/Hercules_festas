@@ -1,0 +1,15 @@
+[
+ {
+  "nome": "Bernardo",
+  "contato": "21976758520",
+  "endereco": "rua andarai 123",
+  "data_entrega": "23/06/2027",
+  "itens": [
+   {
+    "item": "Conjunto",
+    "quantidade": 100
+   }
+  ],
+  "total": 2000.0
+ }
+]
