@@ -38,10 +38,10 @@ def processar_conjuntos(itens):
 
 def registrar_aluguel():
     try:
-        nome = entrada_valida("Nome do cliente: ")
-        contato = entrada_valida("Número de contato: ", int)
-        endereco = entrada_valida("Endereço: ")
-        data_entrega = entrada_valida("Data de entrega: ")
+        nome = input("Nome do cliente: ")
+        contato = input("Número de contato: ", int)
+        endereco = input("Endereço: ")
+        data_entrega = input("Data de entrega: ")
 
         itens_escolhidos = []
         print("\nItens disponíveis:")
@@ -89,16 +89,6 @@ def registrar_aluguel():
         print(f"Valor total: R$ {total:.2f}")
     except Exception as e:
         print(f"Erro inesperado: {e}")
-    
-def entrada_valida(mensagem, tipo=str):
-    while True:
-        try:
-            valor = tipo(input(mensagem).strip())
-            if valor:
-                return valor
-        except ValueError:
-            pass
-        print("Entrada inválida! Tente novamente.")
 
 def gerar_nota(nome, contato, endereco, data_entrega, itens, total):
     with open(f"Nota_{nome.replace(' ', '_')}.txt", "w", encoding="utf-8") as file:
