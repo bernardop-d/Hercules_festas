@@ -1,22 +1,12 @@
 import json
 
 PRECOS = {
-    "Conjunto": 20.00,
-    "Mesa": 10.00,
-    "Cadeira": 4.00,
-    "Pula-pula pequeno": 200.00,
-    "Pula-pula medio": 230.00,
-    "Pula-pula grande": 250.00,
-    "Piscina de bolinhas": 210.00,
-    "Tina": 35.00,
-    "Toboga": 690.00,
-    "Ping-pong pro": 380.00,
-    "Tamancobol": 190.00,
-    "Air game": 350.00,
-    "Pebolim": 250.00,
-    "Castelinho": 650.00,
-    "Fliperama": 360.00,
-    "Pranchao": 120.00 
+    "Conjunto": 20.00, "Mesa": 10.00, "Cadeira": 4.00,
+    "Pula-pula pequeno": 200.00, "Pula-pula medio": 230.00,
+    "Pula-pula grande": 250.00, "Piscina de bolinhas": 210.00,
+    "Tina": 35.00, "Toboga": 690.00, "Ping-pong pro": 380.00,
+    "Tamancobol": 190.00, "Air game": 350.00, "Pebolim": 250.00,
+    "Castelinho": 650.00, "Fliperama": 360.00, "Pranchao": 120.00
 }
 
 def carregar_dados():
