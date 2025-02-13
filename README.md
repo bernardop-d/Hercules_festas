@@ -6,4 +6,3 @@ Uma das maiores lições que aprendi foi que "O melhor testador do sistema é o 
 
 Essa jornada não só me ensinou sobre programação, mas também sobre a importância de aprender com os erros e de nunca desistir. Mas, sendo bem sincero, a melhor recompensa de verdade foi ter conseguido fazer isso para minha própria mãe.
 
-Peço desculpas pela qualidade do vídeo não ser das melhores. Infelizmente, ele acaba perdendo um pouco da resolução ao ser enviado para cá. Enfim, espero que gostem! Se quiserem conferir o código, ele estará no meu repositório do GitHub. Além disso, fiquem à vontade para comentar e compartilhar sugestões sobre a estrutura e possíveis melhorias!
