@@ -38,14 +38,15 @@ def processar_conjuntos(itens):
 
 def registrar_aluguel():
     try:
-        nome = input("Qual o nome do cliente? ")
-        endereco = input(f"Qual o endereço de {nome} e n° do local?")
-        
-        itens_escolhidos = []
+        nome = entrada_valida("Nome do cliente: ")
+        contato = entrada_valida("Número de contato: ", int)
+        endereco = entrada_valida("Endereço: ")
+        data_entrega = entrada_valida("Data de entrega: ")
 
-        print("Itens disponíveis: ")
+        itens_escolhidos = []
+        print("\nItens disponíveis:")
         for i, (item, preco) in enumerate(PRECOS.items(), start=1):
-            print(f"{i}. {item} - R$ {preco:.2f} por unidade")
+            print(f"{i}. {item:<25} R$ {preco:.2f}")
 
         while True:
             try:
@@ -88,6 +89,31 @@ def registrar_aluguel():
         print(f"Valor total: R$ {total:.2f}")
     except Exception as e:
         print(f"Erro inesperado: {e}")
+    
+def entrada_valida(mensagem, tipo=str):
+    while True:
+        try:
+            valor = tipo(input(mensagem).strip())
+            if valor:
+                return valor
+        except ValueError:
+            pass
+        print("Entrada inválida! Tente novamente.")
+
+def gerar_nota(nome, contato, endereco, data_entrega, itens, total):
+    with open(f"Nota_{nome.replace(' ', '_')}.txt", "w", encoding="utf-8") as file:
+        file.write(f"Nome: {nome}\n")
+        file.write(f"Cel de contato: {contato}\n")
+        file.write(f"Endereço: {endereco}\n")
+        file.write(f"Data de entrega: {data_entrega}\n\n")
+        file.write("Itens alugados:\n")
+        file.write("=" * 40 + "\n")
+        file.write(f"{'Item':<25}{'Qtd':>5}{'Preço (R$)':>12}\n")
+        file.write("=" * 40 + "\n")
+        for item in itens:
+            file.write(f"{item['item']:<25}{item['quantidade']:>5}{PRECOS[item['item']] * item['quantidade']:>12.2f}\n")
+        file.write("=" * 40 + "\n")
+        file.write(f"Total: R$ {total:.2f}\n")
 
 def visualizar_alugueis():
     try:
@@ -116,7 +142,7 @@ def menu():
             print("1. REGISTRAR ALUGUEL")
             print("2. VISUALIZAR NOTA")
             print("3. SAIR")
-            
+            print("\n============================================")
             opcao = input("Escolha uma opção (1/2/3): ").strip()
 
             if opcao == "1":
