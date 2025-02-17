@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 **Formação**: Cursando Análise e Desenvolvimento de Sistemas
-- 💻 **Atualmente**: Focada em **Backend**
+- 💻 **Atualmente**: Focado em **Backend**
 - 📊 **Habilidades**: Python, Java, SQL, Excel
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
 
@@ -22,7 +22,7 @@
 </p>
 
 ## 📂 Projetos Destacados
-- 🔹 [Sistema Hercules_festas (aluguel de material pra festa](https://github.com/bernardop-d/Hercules_festas)
+- 🔹 [Sistema Hercules_festas (aluguel de material pra festa](https://github.com/bernardop-d/Hercules_festas))
 
 ## 📫 Entre em Contato
 <p>
