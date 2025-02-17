@@ -1,4 +1,4 @@
-<h1 align="center"> Bem vindos ao meu Github, espero quue gostem! </h1>
+<h1 align="center"> Bem vindos ao meu Github, espero que gostem! </h1>
 
 <div align="center">
 <a href="https://github.com/bernardop-d">
