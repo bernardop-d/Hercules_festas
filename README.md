@@ -1,8 +1,39 @@
-Após 14 anos acompanhando de perto o trabalho da minha mãe no aluguel de materiais para festas, encontrei uma maneira de ajudá-la a otimizar a gestão do seu negócio: criando um sistema para o uso dela.
+<h1 align="center"> Oiiiii! </h1>
 
-O caminho não foi fácil. Enfrentei momentos de estagnação, reescrevi trechos do código diversas vezes. Mas a persistência e a vontade de fazer essa diferença me impulsionaram a continuar. 💻
+<div align="center">
+<a href="https://github.com/bernardop-d">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardop-d&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardop-d&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-Uma das maiores lições que aprendi foi que "O melhor testador do sistema é o próprio usuário". Ao deixar minha mãe testar o sistema, ela achou diversos erros 😅 . Hoje, o sistema está em pleno funcionamento: armazenando dados em JSON, formatação dos itens em tabela, calculando valores automaticamente e gerando notas de forma rápida e precisa. 📊
+## 🚀 Sobre mim
 
-Essa jornada não só me ensinou sobre programação, mas também sobre a importância de aprender com os erros e de nunca desistir. Mas, sendo bem sincero, a melhor recompensa de verdade foi ter conseguido fazer isso para minha própria mãe.
+- 🎓 **Formação**: Cursando Análise e Desenvolvimento de Sistemas
+- 💻 **Atualmente**: Focada em **Backend**
+- 📊 **Habilidades**: Java, API Rest, SQL,Excel
+- 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
 
+## 🛠️ Tecnologias e Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+</p>
+
+## 📂 Projetos Destacados
+- 🔹 [Sistema Hercules_festas (aluguel de material pra festa](https://github.com/bernardop-d/FrontEnd-React-EventManager)
+
+## 📫 Entre em Contato
+<p>
+  <a href="https://www.linkedin.com/in/bernardop-d/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="contato.bernardopd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="http://lattes.cnpq.br/7762301473993038" target="_blank">
+  <img src="https://img.shields.io/badge/Lattes-005a9c?style=for-the-badge&logo=read-the-docs&logoColor=white">
+</a>
+  <a href="https://www.instagram.com/be.rkd/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
