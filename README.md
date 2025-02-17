@@ -1,4 +1,4 @@
-<h1 align="center"> Oiiiii! </h1>
+<h1 align="center"> Bem vindos ao meu Github, espero quue gostem! </h1>
 
 <div align="center">
 <a href="https://github.com/bernardop-d">
@@ -10,7 +10,7 @@
 
 - 🎓 **Formação**: Cursando Análise e Desenvolvimento de Sistemas
 - 💻 **Atualmente**: Focada em **Backend**
-- 📊 **Habilidades**: Java, API Rest, SQL,Excel
+- 📊 **Habilidades**: Python, Java, SQL, Excel
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -22,7 +22,7 @@
 </p>
 
 ## 📂 Projetos Destacados
-- 🔹 [Sistema Hercules_festas (aluguel de material pra festa](https://github.com/bernardop-d/FrontEnd-React-EventManager)
+- 🔹 [Sistema Hercules_festas (aluguel de material pra festa](https://github.com/bernardop-d/Hercules_festas)
 
 ## 📫 Entre em Contato
 <p>
