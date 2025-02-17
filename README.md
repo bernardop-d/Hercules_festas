@@ -32,8 +32,5 @@
   <a href="contato.bernardopd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="http://lattes.cnpq.br/7762301473993038" target="_blank">
-  <img src="https://img.shields.io/badge/Lattes-005a9c?style=for-the-badge&logo=read-the-docs&logoColor=white">
-</a>
   <a href="https://www.instagram.com/be.rkd/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
