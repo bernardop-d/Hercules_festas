@@ -22,7 +22,7 @@
 </p>
 
 ## 📂 Projetos Destacados
-- 🔹 [Sistema Hercules_festas (aluguel de material pra festa](https://github.com/bernardop-d/Hercules_festas))
+- 🔹 [Sistema Hercules_festas (aluguel de material pra festa)](https://github.com/bernardop-d/Hercules_festas)
 
 ## 📫 Entre em Contato
 <p>
